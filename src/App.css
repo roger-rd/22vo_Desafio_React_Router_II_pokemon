@@ -1,0 +1,12 @@
+body{
+    background: rgb(179, 177, 177);
+    width: 100 wh;
+    background-image: url("../src/assets/img/arena-pokemon.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+h1{
+    color: rgb(6, 10, 82);
+    margin-bottom: 10%;
+}
